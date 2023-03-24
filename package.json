@@ -1,0 +1,11 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "testing github actions",
+  "main": "app.js",
+  "scripts": {
+    
+  },
+  "author": "BNA Studio",
+  "license": "ISC"
+}
